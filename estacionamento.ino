@@ -133,6 +133,9 @@ long cor_led (int a, int b, int c) {
   neo.show();
 }
 
+
+//LOHANE COMEÇA AQUI OH
+
 // =====================
 // LOOP PRINCIPAL
 // =====================
